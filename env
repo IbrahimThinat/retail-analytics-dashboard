@@ -1,0 +1,4 @@
+GOOGLE_APPLICATION_CREDENTIALS=qc-dev-gemini-vertex-api-6973a5d24df0 2.json
+GOOGLE_CLOUD_PROJECT=qc-dev-gemini-vertex-api
+GOOGLE_CLOUD_LOCATION=us-central1
+VERTEX_MODEL=gemini-2.5-flash

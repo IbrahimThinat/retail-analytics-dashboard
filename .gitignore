@@ -1,3 +1,23 @@
-.idea/
+# Environment variables / secrets
+.env
+.streamlit/secrets.toml
 
+*.json
+gcp-key.json
+
+# Virtual Environment
+.venv/
+env/
+env.
+venv/
+
+# Python cache & build artifacts
+__pycache__/
+*.pyc
+
+# Local IDE configuration
 .idea/
+.vscode/
+
+# Database files (optional, depending on if you want to commit your DB)
+*.db
